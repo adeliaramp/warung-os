@@ -17,8 +17,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: install tools
-        run: pip install ruff black pytest
+      - name: install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install ruff==0.15.20 black==25.11.0 pytest
 
       - name: ruff
         run: ruff check .
