@@ -1,0 +1,87 @@
+sku_id,name,unit,category,is_perishable,cost_price,sell_price,is_active
+1,Indomie Goreng,bungkus,dry,False,2600,3100,True
+2,Indomie Kuah,bungkus,dry,False,2500,3000,True
+3,Indomie Soto,bungkus,dry,False,2600,3100,True
+4,Mie Sedaap Goreng,bungkus,dry,False,2500,3100,True
+5,Mie Sedaap Kuah,bungkus,dry,False,2400,2900,True
+6,Beras 5kg,karung,dry,False,64900,73300,True
+7,Beras 1kg,kg,dry,False,12800,14400,True
+8,Gula Pasir 1kg,kg,dry,False,14400,16500,True
+9,Gula Pasir 250g,bungkus,dry,False,3400,3900,True
+10,Minyak Goreng 1L,liter,dry,False,17900,20900,True
+11,Minyak Goreng 500ml,botol,dry,False,9900,11800,True
+12,Kecap Manis ABC 135ml,botol,dry,False,5200,6300,True
+13,Kecap Manis ABC 275ml,botol,dry,False,9100,11200,True
+14,Saos Sambal ABC,botol,dry,False,7200,8800,True
+15,Garam 250g,bungkus,dry,False,2000,2500,True
+16,Tepung Terigu 1kg,kg,dry,False,9700,11700,True
+17,Tepung Beras 500g,bungkus,dry,False,6000,7500,True
+18,Kopi Kapal Api Sachet,sachet,dry,False,1400,1900,True
+19,Kopi Nescafe Sachet,sachet,dry,False,2100,2600,True
+20,Teh Celup Sariwangi,kotak,dry,False,7100,8600,True
+21,Susu Kental Manis Frisian Flag,kaleng,dry,False,12300,14400,True
+22,Susu Kental Manis Indomilk,kaleng,dry,False,10800,12800,True
+23,Energen Cokelat,sachet,dry,False,4200,5200,True
+24,Milo Sachet,sachet,dry,False,3600,4700,True
+25,Ovomaltine Sachet,sachet,dry,False,4600,5700,True
+26,Rokok Gudang Garam 12,bungkus,dry,False,22300,24200,True
+27,Rokok Surya 12,bungkus,dry,False,20900,22900,True
+28,Rokok Marlboro 20,bungkus,dry,False,36300,40100,True
+29,Rokok Dji Sam Soe 12,bungkus,dry,False,23200,26100,True
+30,Rokok Ecer,batang,dry,False,1700,2000,True
+31,Chitato Sapi Panggang,bungkus,snack,False,7200,8700,True
+32,Chitato Original,bungkus,snack,False,7300,8900,True
+33,Piattos Keju,bungkus,snack,False,6900,8400,True
+34,Oreo Original,bungkus,snack,False,4900,5900,True
+35,Roma Kelapa,bungkus,snack,False,5000,6000,True
+36,Beng-Beng,pcs,snack,False,2900,3400,True
+37,Silver Queen Chunky Bar,pcs,snack,False,10600,12500,True
+38,Kopiko Candy,bungkus,snack,False,2000,2500,True
+39,Wafer Tango,bungkus,snack,False,3400,4400,True
+40,Nabati Keju,bungkus,snack,False,2500,3100,True
+41,Aqua 600ml,botol,beverage,False,3000,4000,True
+42,Aqua 1500ml,botol,beverage,False,5700,7200,True
+43,Le Minerale 600ml,botol,beverage,False,2900,3600,True
+44,Teh Botol Sosro 450ml,botol,beverage,False,4400,5400,True
+45,Teh Pucuk Harum 350ml,botol,beverage,False,3600,4600,True
+46,Pocari Sweat 330ml,botol,beverage,False,5200,6700,True
+47,Extra Joss Sachet,sachet,beverage,False,2500,3000,True
+48,Sprite 390ml,botol,beverage,False,4400,5400,True
+49,Coca-Cola 390ml,botol,beverage,False,4600,5600,True
+50,Good Day Cappuccino,botol,beverage,False,3900,4800,True
+51,Susu Ultra Mimi 125ml,kotak,beverage,False,2900,3700,True
+52,Milo UHT 200ml,kotak,beverage,False,4800,5700,True
+53,Yakult,botol,beverage,False,4600,5700,True
+54,Sabun Lifebuoy Batang,pcs,household,False,3600,4600,True
+55,Sabun Dettol Cair 250ml,botol,household,False,22500,26500,True
+56,Sunlight Cuci Piring 200ml,botol,household,False,8200,10300,True
+57,Rinso Sachet 75g,sachet,household,False,4000,5000,True
+58,Attack Sachet 75g,sachet,household,False,3500,4500,True
+59,Shampoo Sunsilk Sachet,sachet,household,False,1000,1400,True
+60,Shampoo Clear Sachet,sachet,household,False,1000,1400,True
+61,Kondisioner Rejoice Sachet,sachet,household,False,1000,1500,True
+62,Pasta Gigi Pepsodent 75g,tube,household,False,12000,14500,True
+63,Sikat Gigi Formula,pcs,household,False,8100,10100,True
+64,Pembalut Charm Regular,bungkus,household,False,15400,18500,True
+65,Pampers S 4pcs,bungkus,household,False,14200,17200,True
+66,Tahu Putih,pcs,fresh,True,500,700,True
+67,Tempe 1 papan,papan,fresh,True,7000,9100,True
+68,Telur Ayam,butir,fresh,True,2500,2900,True
+69,Telur Puyuh (10 butir),pack,fresh,True,6700,8600,True
+70,Kangkung 1 ikat,ikat,fresh,True,3000,4000,True
+71,Bayam 1 ikat,ikat,fresh,True,2900,3900,True
+72,Wortel 250g,bungkus,fresh,True,4000,5400,True
+73,Buncis 250g,bungkus,fresh,True,4700,6200,True
+74,Tomat 250g,bungkus,fresh,True,3900,5400,True
+75,Cabai Rawit 100g,bungkus,fresh,True,4800,6700,True
+76,Bawang Merah 100g,bungkus,fresh,True,3900,5400,True
+77,Bawang Putih 100g,bungkus,fresh,True,4400,5900,True
+78,Pisang Kepok (sisir),sisir,fresh,True,10200,13200,True
+79,Roti Tawar Sari Roti,bungkus,fresh,True,16100,19100,True
+80,Roti Gandum Sari Roti,bungkus,fresh,True,18500,22600,True
+81,Kerupuk Mentah 250g,bungkus,fresh,True,5100,7100,True
+82,Bakso Sapi Frozen 500g,bungkus,frozen,True,27700,34700,True
+83,Nugget So Good 500g,bungkus,frozen,True,36100,43300,True
+84,Sosis Vida 375g,bungkus,frozen,True,27100,33800,True
+85,Es Krim Walls Paddle Pop,pcs,frozen,True,4800,6700,True
+86,Es Krim Campina,pcs,frozen,True,5800,7700,True
