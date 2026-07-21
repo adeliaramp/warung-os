@@ -1,10 +1,12 @@
 name: morning digest
 
-# WIB is UTC+7, so 06:00 WIB = 23:00 UTC previous day
+# Manual trigger only. To run this on a schedule after adding the four
+# repository secrets below, uncomment the schedule block.
+# WIB is UTC+7, so 06:00 WIB = 23:00 UTC previous day.
 on:
-  schedule:
-    - cron: "0 23 * * *"
   workflow_dispatch:
+  # schedule:
+  #   - cron: "0 23 * * *"
 
 jobs:
   digest:

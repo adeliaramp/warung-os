@@ -1,10 +1,12 @@
 name: nightly recompute
 
-# 23:00 WIB = 16:00 UTC
+# Manual trigger only. To run this on a schedule after adding the four
+# repository secrets below, uncomment the schedule block.
+# 23:00 WIB = 16:00 UTC.
 on:
-  schedule:
-    - cron: "0 16 * * *"
   workflow_dispatch:
+  # schedule:
+  #   - cron: "0 16 * * *"
 
 jobs:
   recompute:

@@ -1,10 +1,12 @@
 name: evening nudge
 
-# 19:00 WIB = 12:00 UTC
+# Manual trigger only. To run this on a schedule after adding the four
+# repository secrets below, uncomment the schedule block.
+# 19:00 WIB = 12:00 UTC.
 on:
-  schedule:
-    - cron: "0 12 * * *"
   workflow_dispatch:
+  # schedule:
+  #   - cron: "0 12 * * *"
 
 jobs:
   nudge:
